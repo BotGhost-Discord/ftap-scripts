@@ -1,3 +1,4 @@
+
 local RootPart = workspace.furry34400.HumanoidRootPart
 local Toys = workspace.furry34400SpawnedInToys
 local CreatureRootPart = workspace.furry34400SpawnedInToys.CreatureBlobman.HumanoidRootPart
@@ -22,3 +23,4 @@ Event:FireServer(
     workspace[Toys]CreatureBlobman.LeftDetector.LeftWeld
   ) CreatureGrab
 end
+-- im bad at coding -_-
