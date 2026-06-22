@@ -8,7 +8,7 @@ local CreatureRootPart = workspace.furry34400SpawnedInToys.CreatureBlobman.Human
 while true do
 
 task.wait(0.05)
--- btw the CFrames are just for testing ts out, RootPart RootPart tp'ing MAY not be needed at all, it's either that or CreatureBlobman.HumanoidRootPart teleportation.
+-- btw the CFrames are just for testing ts out, RootPart tp'ing MAY not be needed at all, it's either that or CreatureBlobman.HumanoidRootPart teleportation.
   -- also i might need to look inside the game with dex
   -- papyrus would be proud of my commentation,
   -- peak music btw
